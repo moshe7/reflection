@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initial git directory created, to handle git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory for first write code, staging area after add and repository get file after commit.
+Split to this three area make logical for save files temporary and at final commit at once  
