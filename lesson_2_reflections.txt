@@ -6,3 +6,11 @@ How is the staging area different from the working directory and the repository?
 
 Working directory for first write code, staging area after add and repository get file after commit.
 Split to this three area make logical for save files temporary and at final commit at once  
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By save to staging area part by part of the code, until make complete logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+For explorer new road in my app, The new branch make speared way to explorer without mess the app.
