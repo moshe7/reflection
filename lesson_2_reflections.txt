@@ -18,4 +18,10 @@ For explorer new road in my app, The new branch make speared way to explorer wit
 
 How do the diagrams help you visualize the branch structure?
 
-Make me understand the flow of the commits and branches 
+Make me understand the flow of the commits and branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The branches united to one branch. 
+Because the diagram represent parent of commits by date, also after merge branches  
+
