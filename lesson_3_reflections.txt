@@ -19,3 +19,7 @@ A. Merge between the remote and local repository
 Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A. By sharing file in cloud, easy by automatic share changes, but harder to mange versions.  
+
+Q. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A. When I want to explorer new feature, the new branch make me confident to change the app.
